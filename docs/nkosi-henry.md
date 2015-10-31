@@ -3,5 +3,5 @@
 **Name:** Nkosi Henry  
 **From:** Trinidad and Tobago  
 **Fav Food:** Lentil  
-**Hobby:** Hiking
+**Hobby:** Hiking  
 **Fav color:** Blue
